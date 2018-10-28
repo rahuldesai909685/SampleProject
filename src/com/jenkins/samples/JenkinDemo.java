@@ -16,7 +16,8 @@ public class JenkinDemo {
 		System.out.println("1");
 		driver.manage().window().maximize();
 		System.out.println("2");
-		
+		System.out.println("hi this is testing");
+
 			
 	}
 }
